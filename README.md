@@ -1,4 +1,4 @@
-# Hi 👋! I'm **Manel** - Frontend Developer 🌍
+# Hi 👋! I'm **Manel** - Full Stack Developer 🌍
 
 # 💫 About Me:
 ###
