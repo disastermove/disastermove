@@ -1,8 +1,15 @@
 # Hi 👋! I'm **Manel** - Frontend Developer 🌍
 
 # 💫 About Me:
+###
+
+<img align="right" height="150" src="https://uinona.net/wp-content/uploads/gif_984/animated_0000034404.gif"  />
+
+###
 🔭 **Currently working on:** Code projects & Open Source  
+
 🌱 **Learning Journey:** Mastering **Java** and **PL/SQL** architectures  
+
 💬 **Ask me about:** React, SQL, and Web Performance
 
 # 💻 Tech Stack:
